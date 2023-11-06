@@ -1,2 +1,2 @@
-# QuTiP-Lecture-Note
-# QuTiP-Lecture-Note
+# QuTiP
+# QuTiP
