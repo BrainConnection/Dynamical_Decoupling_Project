@@ -1,2 +1,2 @@
 # QuTiP
-Study & Project
+Qutip Study & Project
