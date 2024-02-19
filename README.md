@@ -1,2 +1,2 @@
-# QuTiP
-Qutip Study & Project
+# QDL
+Quantum Device Lab
