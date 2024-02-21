@@ -1,2 +1,0 @@
-# QDL
-Quantum Device Lab
